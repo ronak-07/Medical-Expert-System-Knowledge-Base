@@ -1,0 +1,21 @@
+Diabetes, describes a group of metabolic diseases in which the person has high blood glucose (blood sugar), either because insulin production is inadequate, or because the body's cells do not respond properly to insulin, or both. 
+
+Diabetes is a long-term condition that causes high blood sugar levels.
+There are two types of diabetes:
+
+1.Type 1 diabetes and 2. Type 2 diabetes
+
+In Type 1 Diabetes, the body does not produce insulin. Approximately 10% of all diabetes cases are type 1.
+
+In Type 2 Diabetes, the body does not produce enough insulin for proper function. Approximately 90% of all cases of diabetes worldwide are of this type.
+
+People usually develop type 1 diabetes before their 40th year, often in early adulthood or teenage years.
+
+Diagnosis Tests:
+
+Glycated hemoglobin (A1C) test
+Random blood sugar test
+Fasting blood sugar test
+Oral glucose tolerance test
+
+

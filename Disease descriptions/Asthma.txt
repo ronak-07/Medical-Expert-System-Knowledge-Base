@@ -1,0 +1,14 @@
+Asthma is a common long-term inflammatory disease of the airways of the lungs. 
+It is characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm.
+
+Asthma is thought to be caused by a combination of genetic and environmental factors.
+Environmental factors include exposure to air pollution and allergens.
+
+Other potential triggers include medications such as aspirin and beta blockers.
+
+Diagnosis:
+Diagnosis is usually based on the pattern of symptoms, response to therapy over time, and spirometry.
+
+Asthma is classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.
+
+It may also be classified as atopic or non-atopic, where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction.
