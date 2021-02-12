@@ -5,7 +5,7 @@ Using expert system shells for the development of Expert systems. These shells a
 
 Package Used
 --------------
-Pyknow
+experta==1.9.4
 
 Idea
 ------------------
